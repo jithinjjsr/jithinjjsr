@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </p>
 
 <div align="center">
-   <h3> 👩‍💻 Computer Science & Design Student | 💻 Full Stack Developer (.NET Core / Angular) | 🛸 India  </h3>
+   <h3> 👩‍💻 Computer Science Post Graduate | 💻 Full Stack Developer (.NET Core / Angular) | 🛸 India  </h3>
    <h4>⚡ I’m interested in Coding, Web Designing and Development. ⚡</h4>
 </div>
 
@@ -41,14 +41,15 @@ Hello folks, I'm a Fullstack Developer 🚀 and Computer Science Post Graduate f
   <img src="https://img.icons8.com/color/96/000000/html-5.png" alt="HTML" style="margin: 10px;">
   <img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS" style="margin: 10px;">
   <img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript (JS)" style="margin: 10px;">
-  <img src="https://icons8.com/icon/QfSxyIQo0t7V/angular" alt="Angular" style="margin: 10px;"/>
-  <img src="https://icons8.com/icon/z2gsPTsahvBW/dot-net" alt=".NET Core" style="margin: 10px;"/>
-   <img src="https://icons8.com/icon/JREKfp1O3b8G/sql-server" alt="sql-server" style="margin: 10px;"/>
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular"style="width:96px; margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET Core" style="width:96px;margin: 10px;"/>
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" style="width:96px; margin: 10px;"/>
+   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql-server" style="width:96px;margin: 10px;"/>
    <img  src="https://img.icons8.com/color/96/000000/mongodb.png" alt="mongodb" style="margin: 10px;"/>
   <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" alt="C++" style="margin: 10px;">
   <img src="https://img.icons8.com/color/96/000000/python.png" alt="Python" style="margin: 10px;">
-   <img src="https://icons8.com/icon/55204/c-sharp-logo" alt="c-sharp" style="margin: 10px;"/>
-   <img src="https://icons8.com/icon/y7WGoWNuIWac/visual-studio" alt="visual-studio" style="margin: 10px;"/>
+   <img src="https://img.icons8.com/color/96/000000/c-sharp-logo" alt="c-sharp" style="margin: 10px;"/>
+   <img src="https://img.icons8.com/color/96/000000/visual-studio" alt="visual-studio" style="margin: 10px;"/>
   <img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" alt="VS Code" style="margin: 10px;">
 </p>
 <br>
