@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JS, Angular, .NET API**
 
-- 📫 How to reach me **jithinjjsr@gmail.com**
+- 📫 How to reach me **littlelazylad@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
